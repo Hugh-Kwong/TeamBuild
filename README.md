@@ -8,3 +8,5 @@ change .envEx to .env and add your MONGO_URI
 run using
 
 npm run server
+
+Jest test scripts are non functional
